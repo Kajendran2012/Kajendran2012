@@ -1,5 +1,7 @@
 Hi 👋, I'm Kajendran AKA (KJ) A passionate & motivated Business Analyst from Malaysia 
+
 🧑‍💻 All of my projects are available at ([https://github.com/Kajendran2012](https://github.com/Kajendran2012))
+
 📧 How to reach me [kajenkajendran20@gmail.com](mailto:kajenkajendran20@gmail.com)
 
 Connect with me : 
