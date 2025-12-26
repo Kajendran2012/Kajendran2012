@@ -1,18 +1,36 @@
-Hi 👋, I'm Kajendran AKA (KJ) A passionate & motivated Business Analyst from Malaysia 
+# Hi there 👋, I'm Kajendran (KJ)
 
-🧑‍💻 All of my projects are available at ([https://github.com/Kajendran2012](https://github.com/Kajendran2012))
+### 🚀 Business Analyst | Data Enthusiast | Insight Storyteller  
+📍 Malaysia
 
-📧 How to reach me [kajenkajendran20@gmail.com](mailto:kajenkajendran20@gmail.com)
+I’m a **passionate and motivated Business Analyst** with a strong interest in turning **data into actionable insights**.  
+I enjoy working across **business, data, and technology** to solve real-world problems through analytics, dashboards, and automation.
 
-Connect with me : 
+---
 
-[<img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kajendran-vetriveran2010)
+### 🧑‍💻 My Work & Projects
+🔍 Explore all my projects here:  
+👉 **[github.com/Kajendran2012](https://github.com/Kajendran2012)**
 
-### 🔗 Languages and Tools:
+---
+
+### 📫 Get in Touch
+📧 Email: **[kajenkajendran20@gmail.com](mailto:kajenkajendran20@gmail.com)**  
+
+🌐 Connect with me on LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kajendran%20Vetriveran-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kajendran-vetriveran2010)
+
+---
+
+### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tableau-E1972D?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect with me!*
