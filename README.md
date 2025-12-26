@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Kajendran (KJ)
+
+<img width="1536" height="1024" alt="ChatGPT Image Dec 26, 2025, 09_45_27 PM" src="https://github.com/user-attachments/assets/9bf4e785-6428-4047-ad21-7d64fb832e82" />
 
 ### 🚀 Business Analyst | Data Enthusiast | Insight Storyteller  
 📍 Malaysia
